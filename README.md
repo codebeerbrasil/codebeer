@@ -26,7 +26,7 @@ O 2º encontro CodeBeer, que aconteceu no dia 05 de março na Fatec Rubens Lara 
 #### Material
 - [Slides: O que é preciso para desenvolver um website](http://pt.slideshare.net/marcallkz/codebeer-2)
 - Slides: Agência Monster (em breve)
-- Fotos do evento (em breve)
+- [Fotos do evento](http://on.fb.me/1aU8GSf)
 - Filmagem do evento (em breve)
 
 #### Apoiadores
